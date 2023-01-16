@@ -1,4 +1,4 @@
-String Pattern Matching Algorithm 
+## String Pattern Matching Algorithm 
 Authored by Guy Cohen
 
 # Description:
